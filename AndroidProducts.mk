@@ -17,6 +17,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/derp_zl1.mk
 
 COMMON_LUNCH_CHOICES := \
-    aicp_zl1-user \
-    aicp_zl1-userdebug \
-    aicp_zl1-eng
+    derp_zl1-user \
+    derp_zl1-userdebug \
+    derp_zl1-eng
